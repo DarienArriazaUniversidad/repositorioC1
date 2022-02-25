@@ -1,6 +1,6 @@
 <template >
 <div class="conversion5">
-    <h1>pagina 35</h1>
+    
   <section class="conversion5">
      <b-card bg-variant="dark">
     <b-form-group
