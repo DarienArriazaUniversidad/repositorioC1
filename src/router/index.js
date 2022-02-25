@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import Nuevo from '../views/Nuevo.vue'
+import Colores from '../views/Colores.vue'
 import Conversion2 from '../views/Conversion2.vue'
 import PrimeraConversion from '../views/PrimeraConversion.vue'
 import TerceraConversion from  '../views/TerceraConversion.vue'
@@ -17,9 +17,9 @@ const routes = [
     component: Home
   },
   {
-    path:'/nuevo',
-    name: 'Nuevo',
-    component: Nuevo
+    path:'/colores',
+    name: 'colores',
+    component: Colores
   },
   {
     name: 'conversion1',
